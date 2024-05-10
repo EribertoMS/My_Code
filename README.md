@@ -1,0 +1,3 @@
+This is my first file that I wrote on May 09, 2024. It's a basic file that just outputs Hello World! which historically was the first line of code produced...well at
+least thats what the history books in my coding class says. This represents a long journey for me....to be honest Im not very good at coding but I am good at not 
+giving up...hopefully I can look back at this one day and see how far I've come. Welp here we go.......
